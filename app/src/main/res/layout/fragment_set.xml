@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_setWarning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/acti_set_warning" />
+
+    <EditText
+        android:id="@+id/et_roomId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/acti_set_dorm_hint"
+        android:inputType="text"
+        android:maxLines="1" />
+
+    <Button
+        android:id="@+id/btn_getData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/acti_set_btn_getData" />
+
+    <TextView
+        android:id="@+id/tv_resData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/acti_set_response" />
+
+</LinearLayout>

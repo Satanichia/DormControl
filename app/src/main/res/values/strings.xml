@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">宿舍控制</string>
+
+    <string name="app_navibar_open">打开侧栏</string>
+    <string name="app_navibar_close">关闭侧栏</string>
+    <string name="app_titlebar_logodesc">Logo</string>
+    <string name="app_first_run_notifaction">第一次运行？请先获取控制数据！</string>
+
+    <string name="acti_main_title">控制</string>
+    <string name="acti_main_btn_sw">开关</string>
+
+    <string name="acti_set_title">获取</string>
+    <string name="acti_set_warning">请正确填写以下内容以获取控制数据</string>
+    <string name="acti_set_dorm_hint">宿舍房间ID 例：01#101</string>
+    <string name="acti_set_btn_getData">获取数据</string>
+    <string name="acti_set_response">等待</string>
+
+</resources>
